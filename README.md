@@ -1,7 +1,7 @@
 ## Assalam u Aliakum 👋
 
 
-### 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 #### Languages:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -10,7 +10,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 
-#### Frameworks & Tools:
+Frameworks & Tools:
 
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
@@ -18,7 +18,7 @@
 
 ---
 
-### 🌐 Connect With Me
+🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/ayeshasangani/))
 
@@ -27,20 +27,21 @@
 
 ---
 
-                            ### 📊 GitHub Stats
+
+📊 GitHub Stats
 
 ![Ayesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyeshaSangani&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSangani&layout=compact&theme=tokyonight)
 
 ---
 
-### 🔥 GitHub Streak
+ 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AyeshaSangani&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
-### 🏆 GitHub Trophies
+ 🏆 GitHub Trophies
 
 [![GitHub trophies](https://github-profile-trophy.vercel.app/?username=AyeshaSangani&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 

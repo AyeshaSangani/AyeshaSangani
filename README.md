@@ -1,8 +1,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Ayesha Sangani</h1>
-<h3 align="center">Frontend Developer </h3>
+<h1>Hi 👋, I'm Ayesha Sangani</h1>
+<h3>Frontend Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AyeshaSangani&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
@@ -38,8 +38,11 @@
 | [Portfolio Website](#) | Personal portfolio with custom-styled contact form | HTML • CSS • JS • Bootstrap |
 
 ---
-### 📈 GitHub Stats
+### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaSangani&show_icons=true&theme=dark" alt="Ayesha's GitHub stats" />
-</p>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaSangani&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
 
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSangani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
+</p>

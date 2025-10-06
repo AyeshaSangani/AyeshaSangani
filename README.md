@@ -1,7 +1,7 @@
-<h1>🌟 Assalam-u-Alaikum! 👋</h1>
+<h1> Assalam-u-Alaikum! </h1>
 
-<h3> <i> I'm Ayesha Sangani 
-</i> </h3>
+<h4> <i> I'm Ayesha Sangani 
+</i> </h4>
 
 <p>
   I’m a <strong>Frontend Developer</strong> and <strong>WordPress Developer</strong>, passionate about building <strong>responsive, SEO-optimized, and user-friendly websites</strong>.  

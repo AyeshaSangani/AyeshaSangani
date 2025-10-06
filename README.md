@@ -38,19 +38,8 @@
 | [Portfolio Website](#) | Personal portfolio with custom-styled contact form | HTML • CSS • JS • Bootstrap |
 
 ---
-
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaSangani&show_icons=true&theme=default" alt="Ayesha's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaSangani&theme=default" alt="streak stats" width="48%"/>
-</p>
-
----
-
-### 🌐 Connect
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaSangani&show_icons=true&theme=tokyonight" alt="Ayesha's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaSangani&theme=tokyonight" alt="streak stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaSangani&show_icons=true&theme=dark" alt="Ayesha's GitHub stats" />
 </p>
 

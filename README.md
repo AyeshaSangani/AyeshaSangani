@@ -1,4 +1,4 @@
-<h1>🌟 Assalam-u-Alaikum! 👋</h1>
+<h1> Assalam-u-Alaikum! </h1>
 
 <h3><i>I'm Ayesha Sangani</i></h3>
 

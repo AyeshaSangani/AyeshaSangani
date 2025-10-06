@@ -42,13 +42,6 @@
 
 ---
 
-### 🖼 Portfolio & Projects
-- 🌐 [Behance Portfolio](https://www.behance.net/Ayesha_Sangani)  
-- 📌 [Pinterest Design Boards](https://www.pinterest.com/ayeshasangani)  
-- 💻 [Highlighted GitHub Projects](https://github.com/AyeshaSangani?tab=repositories)  
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ayeshasangani/)  
-
----
 
 ### 📫 Connect With Me
 <p align="left">

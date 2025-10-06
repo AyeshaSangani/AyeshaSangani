@@ -1,14 +1,15 @@
-<h1> Assalam-u-Alaikum ! </h1>
+<h1>🌟 Assalam-u-Alaikum! 👋</h1>
 
-<h3> <i> I'm Ayesha Sangani 
-</i> </h3>
+<h3><i>I'm Ayesha Sangani</i></h3>
 
 <p>
-  I’m a <strong>Frontend Developer</strong> and <strong>WordPress Developer</strong>, passionate about building <strong>responsive, SEO-optimized, and user-friendly websites</strong>.  
-  My focus is transforming ideas into meaningful digital experiences that blend <strong>creativity, functionality, and usability</strong>.
+  I’m a <strong>Frontend Developer</strong> and <strong>WordPress Developer</strong>, passionate about creating 
+  <strong>responsive, SEO-friendly, and user-focused websites</strong>.  
+  My focus is on transforming ideas into meaningful digital experiences that blend 
+  <strong>creativity, functionality, and usability</strong>.
 </p>
 
----
+<hr>
 
 ### 👩‍💻 About Me
 - 💻 Frontend Developer specializing in **Responsive Web Design** and **Custom WordPress Development**  

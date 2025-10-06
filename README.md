@@ -14,7 +14,7 @@
 - 💻 Focused on **Frontend Web Development** and building responsive interfaces
 - ⚙️ Proficient in **HTML, CSS, JavaScript, Bootstrap, PHP & MySQL**
 - 🌱 Exploring **modern frontend practices** and improving UI/UX skills
-- 🚀 Working on **student registration forms, landing pages, and small-scale web apps**
+
 
 ---
 
@@ -41,21 +41,16 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaSangani&show_icons=true&theme=default" alt="Ayesha's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaSangani&show_icons=true&theme=default" alt="Ayesha's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaSangani&theme=default" alt="streak stats" width="48%"/>
 </p>
 
 ---
 
 ### 🌐 Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/ayeshasangani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.behance.net/Ayesha_Sangani" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white"/>
-  </a>
-  <a href="https://www.pinterest.com/ayeshasangani" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-bd081c?style=for-the-badge&logo=pinterest&logoColor=white"/>
-  </a>
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaSangani&show_icons=true&theme=tokyonight" alt="Ayesha's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaSangani&theme=tokyonight" alt="streak stats" width="48%" />
 </p>
+

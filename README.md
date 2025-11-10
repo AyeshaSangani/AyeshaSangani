@@ -56,12 +56,12 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaSangani&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSangani&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AyeshaSangani&theme=tokyonight&hide_border=true&card_width=445&card_height=175" alt="GitHub Streak Stats"/>
-</p>
+
+### 🏆 GitHub Stats
+
+![Ayesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyeshaSangani&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSangani&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyeshaSangani&theme=tokyonight)
 

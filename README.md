@@ -60,8 +60,6 @@
 ### 🏆 GitHub Stats
 
 ![Ayesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyeshaSangani&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSangani&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyeshaSangani&theme=tokyonight)
 
